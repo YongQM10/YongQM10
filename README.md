@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🎨 I enjoy ...
 -->
 
 <!-- My simple story introduction -->
@@ -18,4 +19,3 @@ Here are some ideas to get you started:
 
 👨🏻‍💻 Student sharing about my journey and learning about tech!<br/>
 🌱 Studying Computer Science at Stony Brook University, Long Island<br/>
-🎨 I enjoy taking photos, fitness and <br/>
