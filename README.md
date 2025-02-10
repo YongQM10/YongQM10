@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 👨🏻‍💻 Student sharing about my journey and learning about tech!<br/>
 🌱 Studying Computer Science at Stony Brook University, Long Island<br/>
+🎨 I enjoy photography, cooking, sports, and trying out new stuff!
