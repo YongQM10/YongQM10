@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <!-- My simple story introduction -->
 
-### Hi, I'm Yong!
-
+### Hi, I'm Y | nice to meet you!
+### About Me: 
 👨🏻‍💻 Student sharing about my journey and learning about tech!<br/>
 🌱 Studying Computer Science at Stony Brook University, Long Island<br/>
 🎨 I enjoy photography, exploring, and trying out new stuff!
